@@ -3,7 +3,7 @@ streamlit==1.23.1
 #tensorflow==2.12.0
 tensorflow
 tensorflow_intel
-requests
+requests==0.55.2
 io
 PIL
 numpy
